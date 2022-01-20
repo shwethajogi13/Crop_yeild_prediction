@@ -1,0 +1,795 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Karnataka,BANGALORE RURAL,1997,Kharif     ,Paddy,11240,39367
+Karnataka,BANGALORE RURAL,1997,Kharif     ,Rice,11240,26256
+Karnataka,BANGALORE RURAL,1997,Rabi       ,Paddy,195,1523
+Karnataka,BANGALORE RURAL,1997,Rabi       ,Rice,195,4568
+Karnataka,BANGALORE RURAL,1997,Summer     ,Paddy,4350,25000
+Karnataka,BANGALORE RURAL,1997,Summer     ,Rice,4350,12398
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Arhar/Tur,5522,2151
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Castor seed,3417,3840
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Dry ginger,34,4587
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Groundnut,23543,24490
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Horse-gram,6374,2695
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Maize,4870,15072
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Moong(Green Gram),335,1547
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Niger seed,2606,642
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Onion,71,322
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Peas & beans (Pulses),185,2514
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Potato,835,9203
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Ragi,145038,50000
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Rapeseed &Mustard,1270,412
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Rice,14305,39567
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Sesamum,1245,504
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Soyabean,49,1578
+Karnataka,BANGALORE RURAL,1998,Kharif     ,Sunflower,133,10148
+Karnataka,BANGALORE RURAL,1998,Rabi       ,Gram,50,15489
+Karnataka,BANGALORE RURAL,1998,Rabi       ,Groundnut,1113,1319
+Karnataka,BANGALORE RURAL,1998,Rabi       ,Horse-gram,3654,2236
+Karnataka,BANGALORE RURAL,1998,Rabi       ,Maize,68,1478
+Karnataka,BANGALORE RURAL,1998,Rabi       ,Peas & beans (Pulses),27,15879
+Karnataka,BANGALORE RURAL,1998,Rabi       ,Potato,212,4672
+Karnataka,BANGALORE RURAL,1998,Rabi       ,Ragi,216,14478
+Karnataka,BANGALORE RURAL,1998,Rabi       ,Sunflower,30,10025
+Karnataka,BANGALORE RURAL,1998,Summer     ,Maize,430,978
+Karnataka,BANGALORE RURAL,1998,Summer     ,Onion,150,1861
+Karnataka,BANGALORE RURAL,1998,Summer     ,Peas & beans (Pulses),237,2386
+Karnataka,BANGALORE RURAL,1998,Summer     ,Potato,629,10664
+Karnataka,BANGALORE RURAL,1998,Summer     ,Ragi,1754,3946
+Karnataka,BANGALORE RURAL,1998,Summer     ,Rice,6662,21506
+Karnataka,BANGALORE RURAL,1998,Summer     ,Sunflower,68,12484
+Karnataka,BANGALORE RURAL,1998,Whole Year ,Arecanut,479,3226
+Karnataka,BANGALORE RURAL,1998,Whole Year ,Coconut ,14114,67405
+Karnataka,BANGALORE RURAL,1998,Whole Year ,Coriander,129,8569
+Karnataka,BANGALORE RURAL,1998,Whole Year ,Dry chillies,1652,12581
+Karnataka,BANGALORE RURAL,1998,Whole Year ,Garlic,29,14789
+Karnataka,BANGALORE RURAL,1998,Whole Year ,Turmeric,55,1486
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Arhar/Tur,5556,3473
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Castor seed,3659,3434
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Dry ginger,32,25869
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Groundnut,18643,14273
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Horse-gram,6337,3395
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Maize,5099,15076
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Moong(Green Gram),316,45899
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Niger seed,3099,14589
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Other Kharif pulses,5446,12486
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Ragi,147095,30056
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Rice,11541,32410
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Sesamum,2576,1451
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Small millets,482,12558
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Soyabean,19,14789
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Sunflower,95,14896
+Karnataka,BANGALORE RURAL,1999,Kharif     ,Urad,296,12489
+Karnataka,BANGALORE RURAL,1999,Rabi       ,Gram,36,12589
+Karnataka,BANGALORE RURAL,1999,Rabi       ,Groundnut,488,10258
+Karnataka,BANGALORE RURAL,1999,Rabi       ,Horse-gram,7009,4148
+Karnataka,BANGALORE RURAL,1999,Rabi       ,Maize,61,17889
+Karnataka,BANGALORE RURAL,1999,Rabi       ,Moong(Green Gram),38,1258
+Karnataka,BANGALORE RURAL,1999,Rabi       ,Other  Rabi pulses,669,12589
+Karnataka,BANGALORE RURAL,1999,Rabi       ,Ragi,432,23695
+Karnataka,BANGALORE RURAL,1999,Rabi       ,Rapeseed &Mustard,1402,3658
+Karnataka,BANGALORE RURAL,1999,Rabi       ,Rice,812,1729
+Karnataka,BANGALORE RURAL,1999,Rabi       ,Sunflower,107,12589
+Karnataka,BANGALORE RURAL,1999,Rabi       ,Urad,2,6987
+Karnataka,BANGALORE RURAL,1999,Rabi       ,Wheat,4,9867
+Karnataka,BANGALORE RURAL,1999,Summer     ,Maize,193,1589
+Karnataka,BANGALORE RURAL,1999,Summer     ,Ragi,2431,4859
+Karnataka,BANGALORE RURAL,1999,Summer     ,Rice,7949,21764
+Karnataka,BANGALORE RURAL,1999,Summer     ,Sunflower,28,13475
+Karnataka,BANGALORE RURAL,1999,Whole Year ,Banana,2467,46158
+Karnataka,BANGALORE RURAL,1999,Whole Year ,Black pepper,5,1489
+Karnataka,BANGALORE RURAL,1999,Whole Year ,Coconut ,14705,70228
+Karnataka,BANGALORE RURAL,1999,Whole Year ,Coriander,143,12336
+Karnataka,BANGALORE RURAL,1999,Whole Year ,Dry chillies,641,14789
+Karnataka,BANGALORE RURAL,1999,Whole Year ,Garlic,19,15588
+Karnataka,BANGALORE RURAL,1999,Whole Year ,Onion,51,399
+Karnataka,BANGALORE RURAL,1999,Whole Year ,Potato,691,14644
+Karnataka,BANGALORE RURAL,1999,Whole Year ,Sugarcane,1484,7500
+Karnataka,BANGALORE RURAL,1999,Whole Year ,Sweet potato,43,14889
+Karnataka,BANGALORE RURAL,1999,Whole Year ,Tapioca,168,1254
+Karnataka,BANGALORE RURAL,1999,Whole Year ,Turmeric,51,14253
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Arhar/Tur,4725,3407
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Castor seed,3701,5974
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Dry ginger,37,9658
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Groundnut,17892,16596
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Horse-gram,7290,6517
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Maize,4941,15845
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Moong(Green Gram),363,12589
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Niger seed,2948,12255
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Other Kharif pulses,21463,3766
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Ragi,145995,30456
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Rice,14828,37089
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Sesamum,2154,1441
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Small millets,456,5896
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Soyabean,14,7895
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Sunflower,43,5789
+Karnataka,BANGALORE RURAL,2000,Kharif     ,Urad,286,12258
+Karnataka,BANGALORE RURAL,2000,Rabi       ,Gram,20,32589
+Karnataka,BANGALORE RURAL,2000,Rabi       ,Groundnut,1039,1055
+Karnataka,BANGALORE RURAL,2000,Rabi       ,Horse-gram,3597,13445
+Karnataka,BANGALORE RURAL,2000,Rabi       ,Maize,21,15893
+Karnataka,BANGALORE RURAL,2000,Rabi       ,Moong(Green Gram),8,12258
+Karnataka,BANGALORE RURAL,2000,Rabi       ,Other  Rabi pulses,337,15878
+Karnataka,BANGALORE RURAL,2000,Rabi       ,Ragi,282,9855
+Karnataka,BANGALORE RURAL,2000,Rabi       ,Rapeseed &Mustard,1475,22555
+Karnataka,BANGALORE RURAL,2000,Rabi       ,Rice,715,15588
+Karnataka,BANGALORE RURAL,2000,Rabi       ,Sunflower,16,6987
+Karnataka,BANGALORE RURAL,2000,Rabi       ,Urad,5,23232
+Karnataka,BANGALORE RURAL,2000,Summer     ,Maize,283,14789
+Karnataka,BANGALORE RURAL,2000,Summer     ,Ragi,1469,2853
+Karnataka,BANGALORE RURAL,2000,Summer     ,Rice,6887,18490
+Karnataka,BANGALORE RURAL,2000,Summer     ,Sunflower,102,15799
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Arecanut,514,15899
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Banana,2320,31503
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Black pepper,8,12587
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Coconut ,15076,71999
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Coriander,133,12577
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Dry chillies,741,22255
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Garlic,3,14789
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Onion,50,14475
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Potato,1870,29280
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Sugarcane,1548,25678
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Sweet potato,47,5895
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Tapioca,173,1260
+Karnataka,BANGALORE RURAL,2000,Whole Year ,Turmeric,151,9558
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Arhar/Tur,4503,2798
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Castor seed,2931,4967
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Dry ginger,59,12475
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Groundnut,12305,14116
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Horse-gram,7256,4701
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Maize,5658,23718
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Moong(Green Gram),93,14758
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Niger seed,2600,1257
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Other Kharif pulses,15964,2793
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Ragi,146131,7586
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Rice,11067,28322
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Sesamum,2668,14745
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Small millets,445,13258
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Sunflower,49,6858
+Karnataka,BANGALORE RURAL,2001,Kharif     ,Urad,81,32558
+Karnataka,BANGALORE RURAL,2001,Rabi       ,Gram,12,14775
+Karnataka,BANGALORE RURAL,2001,Rabi       ,Horse-gram,2652,2363
+Karnataka,BANGALORE RURAL,2001,Rabi       ,Maize,37,5656
+Karnataka,BANGALORE RURAL,2001,Rabi       ,Moong(Green Gram),4,6586
+Karnataka,BANGALORE RURAL,2001,Rabi       ,Other  Rabi pulses,208,25474
+Karnataka,BANGALORE RURAL,2001,Rabi       ,Ragi,168,13566
+Karnataka,BANGALORE RURAL,2001,Rabi       ,Rapeseed &Mustard,1766,4658
+Karnataka,BANGALORE RURAL,2001,Rabi       ,Rice,169,12447
+Karnataka,BANGALORE RURAL,2001,Rabi       ,Sunflower,2,14778
+Karnataka,BANGALORE RURAL,2001,Rabi       ,Urad,1,1045
+Karnataka,BANGALORE RURAL,2001,Summer     ,Maize,417,1097
+Karnataka,BANGALORE RURAL,2001,Summer     ,Ragi,645,1137
+Karnataka,BANGALORE RURAL,2001,Summer     ,Rice,3073,7891
+Karnataka,BANGALORE RURAL,2001,Summer     ,Sunflower,41,7789
+Karnataka,BANGALORE RURAL,2001,Whole Year ,Arecanut,1828,2557
+Karnataka,BANGALORE RURAL,2001,Whole Year ,Black pepper,5,1478
+Karnataka,BANGALORE RURAL,2001,Whole Year ,Coconut ,21948,50258
+Karnataka,BANGALORE RURAL,2001,Whole Year ,Coriander,7,9554
+Karnataka,BANGALORE RURAL,2001,Whole Year ,Dry chillies,1578,1226
+Karnataka,BANGALORE RURAL,2001,Whole Year ,Onion,50,45585
+Karnataka,BANGALORE RURAL,2001,Whole Year ,Peas & beans (Pulses),675,4498
+Karnataka,BANGALORE RURAL,2001,Whole Year ,Potato,1636,27066
+Karnataka,BANGALORE RURAL,2001,Whole Year ,Sugarcane,1608,15897
+Karnataka,BANGALORE RURAL,2001,Whole Year ,Turmeric,38,5454
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Arhar/Tur,3136,1278
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Castor seed,1622,4364
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Dry ginger,30,4789
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Groundnut,10732,10261
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Horse-gram,11091,6828
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Maize,4479,14820
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Moong(Green Gram),22,4789
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Niger seed,1493,6895
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Other Kharif pulses,3095,5858
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Ragi,105139,6587
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Rice,5722,12953
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Sesamum,139,14475
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Sunflower,8,14758
+Karnataka,BANGALORE RURAL,2002,Kharif     ,Urad,25,11447
+Karnataka,BANGALORE RURAL,2002,Rabi       ,Groundnut,56,1247
+Karnataka,BANGALORE RURAL,2002,Rabi       ,Horse-gram,3456,1395
+Karnataka,BANGALORE RURAL,2002,Rabi       ,Maize,196,1247
+Karnataka,BANGALORE RURAL,2002,Rabi       ,Other  Rabi pulses,78,1258
+Karnataka,BANGALORE RURAL,2002,Rabi       ,Ragi,427,14789
+Karnataka,BANGALORE RURAL,2002,Rabi       ,Rapeseed &Mustard,957,12258
+Karnataka,BANGALORE RURAL,2002,Rabi       ,Rice,32,32118
+Karnataka,BANGALORE RURAL,2002,Rabi       ,Sunflower,10,8697
+Karnataka,BANGALORE RURAL,2002,Summer     ,Maize,105,9878
+Karnataka,BANGALORE RURAL,2002,Summer     ,Ragi,426,8585
+Karnataka,BANGALORE RURAL,2002,Summer     ,Rice,431,1192
+Karnataka,BANGALORE RURAL,2002,Summer     ,Sunflower,4,4548
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Arcanut (Processed),1904,2663
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Atcanut (Raw),1904,12823
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Banana,2046,25082
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Beans & Mutter(Vegetable),545,2086
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Black pepper,2,8485
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Brinjal,248,2001
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Cashewnut Processed,26,1258
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Cashewnut Raw,26,1224
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Citrus Fruit,16,1656
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Coconut ,21426,25864
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Dry chillies,722,14245
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Grapes,1135,37326
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Mango,18555,34687
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Onion,15,14588
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Other Fresh Fruits,1045,3542
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Papaya,43,7585
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Pome Fruit,1103,14188
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Potato,923,5258
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Sugarcane,1959,34576
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Sweet potato,16,48569
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Tapioca,245,1804
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Tomato,1528,26197
+Karnataka,BANGALORE RURAL,2002,Whole Year ,Turmeric,21,25555
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Arhar/Tur,4572,15856
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Castor seed,2049,6813
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Dry ginger,46,15889
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Groundnut,10930,9735
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Horse-gram,9223,6606
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Maize,6968,32208
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Moong(Green Gram),20,12588
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Niger seed,1628,1248
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Other Kharif pulses,11805,2090
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Ragi,134499,45231
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Rice,5850,13878
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Sesamum,400,47889
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Sunflower,3,4785
+Karnataka,BANGALORE RURAL,2003,Kharif     ,Urad,104,14458
+Karnataka,BANGALORE RURAL,2003,Rabi       ,Gram,67,48585
+Karnataka,BANGALORE RURAL,2003,Rabi       ,Groundnut,422,14785
+Karnataka,BANGALORE RURAL,2003,Rabi       ,Horse-gram,4369,2810
+Karnataka,BANGALORE RURAL,2003,Rabi       ,Maize,100,4585
+Karnataka,BANGALORE RURAL,2003,Rabi       ,Other  Rabi pulses,170,9885
+Karnataka,BANGALORE RURAL,2003,Rabi       ,Ragi,245,5236
+Karnataka,BANGALORE RURAL,2003,Rabi       ,Rapeseed &Mustard,1377,45756
+Karnataka,BANGALORE RURAL,2003,Rabi       ,Rice,240,5645
+Karnataka,BANGALORE RURAL,2003,Rabi       ,Sunflower,129,44888
+Karnataka,BANGALORE RURAL,2003,Summer     ,Maize,103,44444
+Karnataka,BANGALORE RURAL,2003,Summer     ,Ragi,449,8898
+Karnataka,BANGALORE RURAL,2003,Summer     ,Rice,481,1920
+Karnataka,BANGALORE RURAL,2003,Summer     ,Sunflower,412,7898
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Arecanut,1998,2795
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Banana,1910,21873
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Beans & Mutter(Vegetable),462,2708
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Black pepper,3,6569
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Brinjal,140,1871
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Citrus Fruit,25,5897
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Coconut ,20131,54444
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Dry chillies,230,8798
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Grapes,1215,37529
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Mango,18145,44524
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Onion,19,5885
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Other Fresh Fruits,1190,4867
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Pome Fruit,814,10499
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Potato,1467,20886
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Sugarcane,589,39728
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Sweet potato,14,7489
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Tapioca,207,1518
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Tomato,1463,16441
+Karnataka,BANGALORE RURAL,2003,Whole Year ,Turmeric,233,1392
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Arhar/Tur,5331,4269
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Castor seed,1568,2640
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Dry ginger,51,7898
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Groundnut,16645,22683
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Horse-gram,7914,6270
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Maize,7584,24105
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Moong(Green Gram),64,7859
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Niger seed,1640,25252
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Other Kharif pulses,14176,2551.68
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Ragi,135894,45455
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Rice,8568,23767.63
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Sesamum,1475,4758
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Sunflower,80,46656
+Karnataka,BANGALORE RURAL,2004,Kharif     ,Urad,75,8568
+Karnataka,BANGALORE RURAL,2004,Rabi       ,Gram,142,5666
+Karnataka,BANGALORE RURAL,2004,Rabi       ,Groundnut,467,7585
+Karnataka,BANGALORE RURAL,2004,Rabi       ,Horse-gram,2853,1876
+Karnataka,BANGALORE RURAL,2004,Rabi       ,Maize,72,8978
+Karnataka,BANGALORE RURAL,2004,Rabi       ,Other  Rabi pulses,243,7485
+Karnataka,BANGALORE RURAL,2004,Rabi       ,Ragi,145,12121
+Karnataka,BANGALORE RURAL,2004,Rabi       ,Rapeseed &Mustard,1405,7895
+Karnataka,BANGALORE RURAL,2004,Rabi       ,Rice,5,7885
+Karnataka,BANGALORE RURAL,2004,Rabi       ,Sunflower,134,7889
+Karnataka,BANGALORE RURAL,2004,Summer     ,Maize,201,6568
+Karnataka,BANGALORE RURAL,2004,Summer     ,Ragi,521,3256
+Karnataka,BANGALORE RURAL,2004,Summer     ,Rice,800,3579
+Karnataka,BANGALORE RURAL,2004,Summer     ,Sunflower,454,6869
+Karnataka,BANGALORE RURAL,2004,Whole Year ,Arecanut,1975,2763
+Karnataka,BANGALORE RURAL,2004,Whole Year ,Banana,3128,53351
+Karnataka,BANGALORE RURAL,2004,Whole Year ,Black pepper,26,9658
+Karnataka,BANGALORE RURAL,2004,Whole Year ,Coconut ,19789,38990
+Karnataka,BANGALORE RURAL,2004,Whole Year ,Dry chillies,940,3698
+Karnataka,BANGALORE RURAL,2004,Whole Year ,Onion,48,5852
+Karnataka,BANGALORE RURAL,2004,Whole Year ,Potato,1660,22458
+Karnataka,BANGALORE RURAL,2004,Whole Year ,Sweet potato,20,58247
+Karnataka,BANGALORE RURAL,2004,Whole Year ,Tapioca,215,1579
+Karnataka,BANGALORE RURAL,2004,Whole Year ,Turmeric,12,15878
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Arhar/Tur,4557,3429
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Bajra,33,5454
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Castor seed,2137,7396
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Dry chillies,1032,8585
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Groundnut,14516,10850
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Horse-gram,5715,4371
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Maize,8544,37685
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Moong(Green Gram),29,3258
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Niger seed,2157,3695
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Onion,75,2586
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Other Kharif pulses,12750,2178
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Peas & beans (Pulses),100,33568
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Potato,392,1312
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Ragi,138892,49563
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Rice,9729,22181
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Sesamum,3165,2742
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Small millets,183,56445
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Sunflower,100,47755
+Karnataka,BANGALORE RURAL,2005,Kharif     ,Urad,24,12451
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Dry chillies,35,4588
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Gram,100,12458
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Groundnut,119,12141
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Horse-gram,3567,2104
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Maize,139,1258
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Onion,16,9565
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Other  Rabi pulses,191,32258
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Peas & beans (Pulses),95,12585
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Potato,1194,17452
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Ragi,150,9589
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Rapeseed &Mustard,1566,3256
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Rice,18,2585
+Karnataka,BANGALORE RURAL,2005,Rabi       ,Sunflower,4,1472
+Karnataka,BANGALORE RURAL,2005,Summer     ,Dry chillies,7,8520
+Karnataka,BANGALORE RURAL,2005,Summer     ,Maize,370,1144
+Karnataka,BANGALORE RURAL,2005,Summer     ,Onion,5,9630
+Karnataka,BANGALORE RURAL,2005,Summer     ,Peas & beans (Pulses),41,3210
+Karnataka,BANGALORE RURAL,2005,Summer     ,Potato,83,1389
+Karnataka,BANGALORE RURAL,2005,Summer     ,Ragi,508,1109
+Karnataka,BANGALORE RURAL,2005,Summer     ,Rice,2094,6511
+Karnataka,BANGALORE RURAL,2005,Summer     ,Sunflower,387,36680
+Karnataka,BANGALORE RURAL,2005,Whole Year ,Arecanut,2099,14137
+Karnataka,BANGALORE RURAL,2005,Whole Year ,Banana,3407,48182
+Karnataka,BANGALORE RURAL,2005,Whole Year ,Black pepper,1,32589
+Karnataka,BANGALORE RURAL,2005,Whole Year ,Cardamom,1,4574
+Karnataka,BANGALORE RURAL,2005,Whole Year ,Coconut ,19251,7586
+Karnataka,BANGALORE RURAL,2005,Whole Year ,Coriander,86,14855
+Karnataka,BANGALORE RURAL,2005,Whole Year ,Dry ginger,70,12258
+Karnataka,BANGALORE RURAL,2005,Whole Year ,Garlic,8,32586
+Karnataka,BANGALORE RURAL,2005,Whole Year ,Sugarcane,331,29244
+Karnataka,BANGALORE RURAL,2005,Whole Year ,Sweet potato,22,32589
+Karnataka,BANGALORE RURAL,2005,Whole Year ,Tapioca,10,3258
+Karnataka,BANGALORE RURAL,2005,Whole Year ,Turmeric,18,8995
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Arhar/Tur,4160,1715
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Bajra,6,32158
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Castor seed,1568,2990
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Gram,45,32147
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Groundnut,7884,4094
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Horse-gram,4588,1539
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Maize,6861,23981
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Moong(Green Gram),66,32014
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Niger seed,1375,2558
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Other Kharif pulses,8572,14192
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Ragi,89257,31122
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Rapeseed &Mustard,1129,3214
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Rice,7340,14919
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Sesamum,1250,5897
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Small millets,33,6558
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Sunflower,104,6551
+Karnataka,BANGALORE RURAL,2006,Kharif     ,Urad,45,5566
+Karnataka,BANGALORE RURAL,2006,Rabi       ,Gram,23,2588
+Karnataka,BANGALORE RURAL,2006,Rabi       ,Groundnut,27,6855
+Karnataka,BANGALORE RURAL,2006,Rabi       ,Horse-gram,4779,2347
+Karnataka,BANGALORE RURAL,2006,Rabi       ,Maize,160,8987
+Karnataka,BANGALORE RURAL,2006,Rabi       ,Other  Rabi pulses,141,12444
+Karnataka,BANGALORE RURAL,2006,Rabi       ,Ragi,257,6889
+Karnataka,BANGALORE RURAL,2006,Rabi       ,Rice,13,5658
+Karnataka,BANGALORE RURAL,2006,Rabi       ,Sunflower,10,23545
+Karnataka,BANGALORE RURAL,2006,Summer     ,Maize,103,1258
+Karnataka,BANGALORE RURAL,2006,Summer     ,Ragi,255,12588
+Karnataka,BANGALORE RURAL,2006,Summer     ,Rice,706,21214
+Karnataka,BANGALORE RURAL,2006,Summer     ,Sunflower,75,56556
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Arecanut,2257,22323
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Banana,3317,45258
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Coconut ,19357,7625
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Coriander,69,4789
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Dry chillies,915,9959
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Dry ginger,85,5522
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Garlic,4,4758
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Onion,59,4859
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Potato,1802,41882
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Sugarcane,1753,34258
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Sweet potato,18,4225
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Tapioca,3,22356
+Karnataka,BANGALORE RURAL,2006,Whole Year ,Turmeric,24,4789
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Arhar/Tur,1296,1069
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Bajra,4,11545
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Castor seed,382,5878
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Dry chillies,336,4478
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Groundnut,635,2565
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Horse-gram,1338,46657
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Maize,8270,38651
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Moong(Green Gram),6,4789
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Niger seed,727,1236
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Onion,50,4899
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Other Kharif pulses,4258,4476
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Potato,230,7899
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Ragi,47641,8247
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Rapeseed &Mustard,567,14545
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Rice,1990,5928
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Sesamum,12,1478
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Small millets,12,6565
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Sunflower,62,5699
+Karnataka,BANGALORE RURAL,2007,Kharif     ,Urad,4,6565
+Karnataka,BANGALORE RURAL,2007,Rabi       ,Dry chillies,6,5565
+Karnataka,BANGALORE RURAL,2007,Rabi       ,Gram,94,9589
+Karnataka,BANGALORE RURAL,2007,Rabi       ,Groundnut,56,5555
+Karnataka,BANGALORE RURAL,2007,Rabi       ,Horse-gram,1081,9878
+Karnataka,BANGALORE RURAL,2007,Rabi       ,Maize,110,4585
+Karnataka,BANGALORE RURAL,2007,Rabi       ,Onion,8,6685
+Karnataka,BANGALORE RURAL,2007,Rabi       ,Other  Rabi pulses,72,5555
+Karnataka,BANGALORE RURAL,2007,Rabi       ,Potato,1050,7895
+Karnataka,BANGALORE RURAL,2007,Rabi       ,Ragi,108,5748
+Karnataka,BANGALORE RURAL,2007,Rabi       ,Rice,16,2587
+Karnataka,BANGALORE RURAL,2007,Rabi       ,Sunflower,78,12369
+Karnataka,BANGALORE RURAL,2007,Summer     ,Dry chillies,10,14587
+Karnataka,BANGALORE RURAL,2007,Summer     ,Maize,85,5554
+Karnataka,BANGALORE RURAL,2007,Summer     ,Onion,3,12558
+Karnataka,BANGALORE RURAL,2007,Summer     ,Potato,157,2668
+Karnataka,BANGALORE RURAL,2007,Summer     ,Ragi,139,2333
+Karnataka,BANGALORE RURAL,2007,Summer     ,Rice,100,1475
+Karnataka,BANGALORE RURAL,2007,Summer     ,Sunflower,65,3224
+Karnataka,BANGALORE RURAL,2007,Whole Year ,Arecanut,1377,9274
+Karnataka,BANGALORE RURAL,2007,Whole Year ,Banana,1173,43456
+Karnataka,BANGALORE RURAL,2007,Whole Year ,Black pepper,1,5665
+Karnataka,BANGALORE RURAL,2007,Whole Year ,Coconut ,3965,20188
+Karnataka,BANGALORE RURAL,2007,Whole Year ,Coriander,94,8858
+Karnataka,BANGALORE RURAL,2007,Whole Year ,Dry ginger,67,1375
+Karnataka,BANGALORE RURAL,2007,Whole Year ,Garlic,4,5565
+Karnataka,BANGALORE RURAL,2007,Whole Year ,Sugarcane,8,5555
+Karnataka,BANGALORE RURAL,2007,Whole Year ,Sweet potato,5,8557
+Karnataka,BANGALORE RURAL,2007,Whole Year ,Tapioca,6,8855
+Karnataka,BANGALORE RURAL,2007,Whole Year ,Turmeric,8,5584
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Arhar/Tur,1340,1419
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Bajra,4,8695
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Castor seed,340,7584
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Dry chillies,283,7899
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Groundnut,693,7557
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Horse-gram,1208,1353
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Maize,10115,48324
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Moong(Green Gram),14,7899
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Niger seed,641,6586
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Onion,66,9878
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Other Kharif pulses,4446,3906
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Potato,191,9875
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Ragi,43788,3658
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Rice,1782,7753.48
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Sesamum,2,9875
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Sunflower,32,9855
+Karnataka,BANGALORE RURAL,2008,Kharif     ,Urad,32,6525
+Karnataka,BANGALORE RURAL,2008,Rabi       ,Dry chillies,21,7545
+Karnataka,BANGALORE RURAL,2008,Rabi       ,Gram,82,2456
+Karnataka,BANGALORE RURAL,2008,Rabi       ,Groundnut,22,5214
+Karnataka,BANGALORE RURAL,2008,Rabi       ,Horse-gram,1147,7584
+Karnataka,BANGALORE RURAL,2008,Rabi       ,Maize,85,25422
+Karnataka,BANGALORE RURAL,2008,Rabi       ,Onion,19,5246
+Karnataka,BANGALORE RURAL,2008,Rabi       ,Other  Rabi pulses,79,6326
+Karnataka,BANGALORE RURAL,2008,Rabi       ,Potato,902,15454
+Karnataka,BANGALORE RURAL,2008,Rabi       ,Ragi,211,8855
+Karnataka,BANGALORE RURAL,2008,Rabi       ,Rapeseed &Mustard,690,4248
+Karnataka,BANGALORE RURAL,2008,Rabi       ,Rice,12,4522
+Karnataka,BANGALORE RURAL,2008,Rabi       ,Sunflower,96,9585
+Karnataka,BANGALORE RURAL,2008,Summer     ,Dry chillies,16,7542
+Karnataka,BANGALORE RURAL,2008,Summer     ,Maize,152,7985
+Karnataka,BANGALORE RURAL,2008,Summer     ,Onion,17,8547
+Karnataka,BANGALORE RURAL,2008,Summer     ,Potato,160,12411
+Karnataka,BANGALORE RURAL,2008,Summer     ,Ragi,217,32155
+Karnataka,BANGALORE RURAL,2008,Summer     ,Rice,439,1326
+Karnataka,BANGALORE RURAL,2008,Summer     ,Sunflower,250,25145
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Arecanut,1338,32415
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Banana,1054,26183
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Black pepper,1,32515
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Cardamom,1,8985
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Cashewnut,44,35699
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Coconut ,4027,25458
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Coriander,55,9857
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Dry ginger,57,1816
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Garlic,3,25685
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Sugarcane,93,8040
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Sweet potato,9,12544
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Tapioca,3,16000
+Karnataka,BANGALORE RURAL,2008,Whole Year ,Turmeric,6,6555
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Arhar/Tur,1306,1069
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Bajra,4,5864
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Castor seed,303,6548
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Gram,1553,1217
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Groundnut,450,4545
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Horse-gram,1553,1217
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Maize,10788,50013
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Moong(Green Gram),6,45842
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Niger seed,2626,6958
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Onion,77,36595
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Other Kharif pulses,4131,3219
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Potato,105,5698
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Ragi,41469,45213
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Rice,1525,6751.18
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Sesamum,5,25412
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Small millets,8,12425
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Sunflower,12,22222
+Karnataka,BANGALORE RURAL,2009,Kharif     ,Urad,6,48512
+Karnataka,BANGALORE RURAL,2009,Rabi       ,Dry chillies,21,12577
+Karnataka,BANGALORE RURAL,2009,Rabi       ,Gram,1678,12588
+Karnataka,BANGALORE RURAL,2009,Rabi       ,Groundnut,35,12587
+Karnataka,BANGALORE RURAL,2009,Rabi       ,Horse-gram,1678,15897
+Karnataka,BANGALORE RURAL,2009,Rabi       ,Maize,37,18654
+Karnataka,BANGALORE RURAL,2009,Rabi       ,Onion,22,6854
+Karnataka,BANGALORE RURAL,2009,Rabi       ,Other  Rabi pulses,75,12485
+Karnataka,BANGALORE RURAL,2009,Rabi       ,Potato,889,13373
+Karnataka,BANGALORE RURAL,2009,Rabi       ,Ragi,143,12445
+Karnataka,BANGALORE RURAL,2009,Rabi       ,Rapeseed &Mustard,645,35266
+Karnataka,BANGALORE RURAL,2009,Rabi       ,Rice,3,25486
+Karnataka,BANGALORE RURAL,2009,Rabi       ,Sunflower,89,5241
+Karnataka,BANGALORE RURAL,2009,Summer     ,Dry chillies,16,33333
+Karnataka,BANGALORE RURAL,2009,Summer     ,Maize,110,25698
+Karnataka,BANGALORE RURAL,2009,Summer     ,Onion,9,14258
+Karnataka,BANGALORE RURAL,2009,Summer     ,Potato,160,2718
+Karnataka,BANGALORE RURAL,2009,Summer     ,Ragi,143,48755
+Karnataka,BANGALORE RURAL,2009,Summer     ,Rice,139,47588
+Karnataka,BANGALORE RURAL,2009,Summer     ,Sunflower,91,45869
+Karnataka,BANGALORE RURAL,2009,Whole Year ,Arecanut,1100,7408
+Karnataka,BANGALORE RURAL,2009,Whole Year ,Banana,1172,39752
+Karnataka,BANGALORE RURAL,2009,Whole Year ,Black pepper,1,12586
+Karnataka,BANGALORE RURAL,2009,Whole Year ,Cashewnut,159,8954
+Karnataka,BANGALORE RURAL,2009,Whole Year ,Coconut ,4504,32024
+Karnataka,BANGALORE RURAL,2009,Whole Year ,Coriander,68,12587
+Karnataka,BANGALORE RURAL,2009,Whole Year ,Dry ginger,69,2173
+Karnataka,BANGALORE RURAL,2009,Whole Year ,Garlic,6,12368
+Karnataka,BANGALORE RURAL,2009,Whole Year ,Sweet potato,8,12478
+Karnataka,BANGALORE RURAL,2009,Whole Year ,Tapioca,5,36598
+Karnataka,BANGALORE RURAL,2009,Whole Year ,Turmeric,3,12587
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Arhar/Tur,1640,1806
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Bajra,4,36589
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Castor seed,315,1257
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Cowpea(Lobia),996,6565
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Dry chillies,232,4457
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Groundnut,475,32456
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Horse-gram,1065,1015
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Maize,10109,49852
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Moong(Green Gram),23,14588
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Niger seed,559,9657
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Onion,74,33245
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Other Kharif pulses,3383,4480
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Peas & beans (Pulses),466,4909
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Potato,114,8957
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Ragi,43927,5658
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Rice,1531,4486
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Sesamum,31,6325
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Small millets,15,35678
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Sunflower,13,6585
+Karnataka,BANGALORE RURAL,2010,Kharif     ,Urad,25,9575
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Cowpea(Lobia),3,6324
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Dry chillies,39,9578
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Gram,315,30258
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Groundnut,66,6548
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Horse-gram,803,5656
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Maize,124,8785
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Onion,44,9875
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Other  Rabi pulses,13,9862
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Peas & beans (Pulses),104,7586
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Potato,927,27142
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Ragi,203,7587
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Rapeseed &Mustard,630,9586
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Sunflower,15,32568
+Karnataka,BANGALORE RURAL,2010,Rabi       ,Wheat,9,8554
+Karnataka,BANGALORE RURAL,2010,Summer     ,Dry chillies,29,9875
+Karnataka,BANGALORE RURAL,2010,Summer     ,Maize,105,8855
+Karnataka,BANGALORE RURAL,2010,Summer     ,Onion,4,7584
+Karnataka,BANGALORE RURAL,2010,Summer     ,Peas & beans (Pulses),60,9586
+Karnataka,BANGALORE RURAL,2010,Summer     ,Potato,135,2076
+Karnataka,BANGALORE RURAL,2010,Summer     ,Ragi,117,9632
+Karnataka,BANGALORE RURAL,2010,Summer     ,Rice,155,5541
+Karnataka,BANGALORE RURAL,2010,Summer     ,Sunflower,12,8561
+Karnataka,BANGALORE RURAL,2010,Whole Year ,Arecanut,1213,7512
+Karnataka,BANGALORE RURAL,2010,Whole Year ,Banana,1288,46157
+Karnataka,BANGALORE RURAL,2010,Whole Year ,Black pepper,1,6857
+Karnataka,BANGALORE RURAL,2010,Whole Year ,Cardamom,1,4556
+Karnataka,BANGALORE RURAL,2010,Whole Year ,Cashewnut,159,7542
+Karnataka,BANGALORE RURAL,2010,Whole Year ,Coconut ,4503,43046
+Karnataka,BANGALORE RURAL,2010,Whole Year ,Coriander,81,9532
+Karnataka,BANGALORE RURAL,2010,Whole Year ,Dry ginger,71,256.9
+Karnataka,BANGALORE RURAL,2010,Whole Year ,Garlic,9,2314
+Karnataka,BANGALORE RURAL,2010,Whole Year ,Sugarcane,8,8944
+Karnataka,BANGALORE RURAL,2010,Whole Year ,Sweet potato,5,3246
+Karnataka,BANGALORE RURAL,2010,Whole Year ,Tapioca,5,7515
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Arhar/Tur,1650,1014
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Bajra,4,32104
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Castor seed,203,6586
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Cowpea(Lobia),845,8547
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Dry chillies,303,9875
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Groundnut,410,2546
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Horse-gram,938,8521
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Maize,14355,50214
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Moong(Green Gram),10,9624
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Niger seed,449,12548
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Onion,54,12457
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Other Kharif pulses,2957,3427
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Peas & beans (Pulses),407,2155
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Potato,181,1496
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Ragi,42716,6785
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Rice,1460,4836
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Sesamum,24,6547
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Small millets,11,23142
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Sunflower,3,5427
+Karnataka,BANGALORE RURAL,2011,Kharif     ,Urad,8,25475
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Cowpea(Lobia),22,35747
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Dry chillies,39,6547
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Gram,305,12485
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Groundnut,28,9875
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Horse-gram,456,6218
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Maize,100,32157
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Onion,42,42488
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Other  Rabi pulses,21,6248
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Peas & beans (Pulses),98,5225
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Potato,912,18141
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Ragi,155,44877
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Rapeseed &Mustard,609,53244
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Sunflower,5,48955
+Karnataka,BANGALORE RURAL,2011,Rabi       ,Wheat,6,5842
+Karnataka,BANGALORE RURAL,2011,Summer     ,Dry chillies,22,32456
+Karnataka,BANGALORE RURAL,2011,Summer     ,Maize,96,8565
+Karnataka,BANGALORE RURAL,2011,Summer     ,Onion,4,42584
+Karnataka,BANGALORE RURAL,2011,Summer     ,Peas & beans (Pulses),107,35248
+Karnataka,BANGALORE RURAL,2011,Summer     ,Potato,150,7548
+Karnataka,BANGALORE RURAL,2011,Summer     ,Ragi,103,6321
+Karnataka,BANGALORE RURAL,2011,Summer     ,Rice,153,8561
+Karnataka,BANGALORE RURAL,2011,Summer     ,Sunflower,13,7514
+Karnataka,BANGALORE RURAL,2011,Whole Year ,Arecanut,1615,13079
+Karnataka,BANGALORE RURAL,2011,Whole Year ,Banana,875,31914
+Karnataka,BANGALORE RURAL,2011,Whole Year ,Cashewnut,16,6201
+Karnataka,BANGALORE RURAL,2011,Whole Year ,Coconut ,4039,40154
+Karnataka,BANGALORE RURAL,2011,Whole Year ,Coriander,70,6548
+Karnataka,BANGALORE RURAL,2011,Whole Year ,Dry ginger,54,7549
+Karnataka,BANGALORE RURAL,2011,Whole Year ,Garlic,9,6321
+Karnataka,BANGALORE RURAL,2011,Whole Year ,Sweet potato,10,7514
+Karnataka,BANGALORE RURAL,2011,Whole Year ,Tapioca,9,32142
+Karnataka,BANGALORE RURAL,2011,Whole Year ,Turmeric,3,25421
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Arhar/Tur,1197,12458
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Bajra,5,6254
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Castor seed,162,9544
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Cowpea(Lobia),747,21244
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Dry chillies,260,22145
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Groundnut,475,7548
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Horse-gram,1224,9645
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Maize,10363,33207
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Moong(Green Gram),5,2104
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Niger seed,316,10425
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Onion,42,12547
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Other Kharif pulses,2805,1799
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Potato,207,1322
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Ragi,39812,5867
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Rapeseed &Mustard,425,15864
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Rice,963,2796
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Sesamum,23,9658
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Small millets,9,7584
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Sunflower,7,4218
+Karnataka,BANGALORE RURAL,2012,Kharif     ,Urad,10,7594
+Karnataka,BANGALORE RURAL,2012,Rabi       ,Cowpea(Lobia),36,6254
+Karnataka,BANGALORE RURAL,2012,Rabi       ,Gram,39,10258
+Karnataka,BANGALORE RURAL,2012,Rabi       ,Groundnut,58,3658
+Karnataka,BANGALORE RURAL,2012,Rabi       ,Horse-gram,361,45877
+Karnataka,BANGALORE RURAL,2012,Rabi       ,Maize,82,6254
+Karnataka,BANGALORE RURAL,2012,Rabi       ,Onion,7,5482
+Karnataka,BANGALORE RURAL,2012,Rabi       ,Other  Rabi pulses,57,2314
+Karnataka,BANGALORE RURAL,2012,Rabi       ,Potato,497,4485
+Karnataka,BANGALORE RURAL,2012,Rabi       ,Ragi,123,47511
+Karnataka,BANGALORE RURAL,2012,Rabi       ,Rice,1,6253
+Karnataka,BANGALORE RURAL,2012,Summer     ,Cowpea(Lobia),2,12358
+Karnataka,BANGALORE RURAL,2012,Summer     ,Dry chillies,11,6988
+Karnataka,BANGALORE RURAL,2012,Summer     ,Maize,66,32155
+Karnataka,BANGALORE RURAL,2012,Summer     ,Onion,10,23158
+Karnataka,BANGALORE RURAL,2012,Summer     ,Potato,156,3401
+Karnataka,BANGALORE RURAL,2012,Summer     ,Ragi,91,9657
+Karnataka,BANGALORE RURAL,2012,Summer     ,Rice,13,9587
+Karnataka,BANGALORE RURAL,2012,Summer     ,Sunflower,1,9875
+Karnataka,BANGALORE RURAL,2012,Whole Year ,Arecanut,1380,11076
+Karnataka,BANGALORE RURAL,2012,Whole Year ,Black pepper,1,23544
+Karnataka,BANGALORE RURAL,2012,Whole Year ,Cashewnut,21,5875
+Karnataka,BANGALORE RURAL,2012,Whole Year ,Coconut ,3448,33947
+Karnataka,BANGALORE RURAL,2012,Whole Year ,Coriander,47,5847
+Karnataka,BANGALORE RURAL,2012,Whole Year ,Dry ginger,34,1083
+Karnataka,BANGALORE RURAL,2012,Whole Year ,Garlic,1,9657
+Karnataka,BANGALORE RURAL,2012,Whole Year ,Sugarcane,3,2564
+Karnataka,BANGALORE RURAL,2012,Whole Year ,Sweet potato,13,9654
+Karnataka,BANGALORE RURAL,2012,Whole Year ,Tapioca,2,8745
+Karnataka,BANGALORE RURAL,2012,Whole Year ,Turmeric,2,7548
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Arhar/Tur,1274,2145
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Castor seed,167,6325
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Cotton(lint),2,5789
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Cowpea(Lobia),920,12455
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Dry chillies,464,45788
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Groundnut,228,35245
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Horse-gram,1387,8564
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Maize,10622,28931
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Moong(Green Gram),11,4751
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Niger seed,404,21454
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Onion,30,14251
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Other Kharif pulses,1755,25413
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Potato,959,6309
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Ragi,40329,8697
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Rapeseed &Mustard,554,7548
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Rice,685,2197
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Sesamum,15,9578
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Small millets,11,32564
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Sunflower,13,6548
+Karnataka,BANGALORE RURAL,2013,Kharif     ,Urad,5,4582
+Karnataka,BANGALORE RURAL,2013,Rabi       ,Cowpea(Lobia),16,6548
+Karnataka,BANGALORE RURAL,2013,Rabi       ,Dry chillies,9,12498
+Karnataka,BANGALORE RURAL,2013,Rabi       ,Gram,229,32545
+Karnataka,BANGALORE RURAL,2013,Rabi       ,Horse-gram,397,9584
+Karnataka,BANGALORE RURAL,2013,Rabi       ,Maize,112,7548
+Karnataka,BANGALORE RURAL,2013,Rabi       ,Onion,15,105
+Karnataka,BANGALORE RURAL,2013,Rabi       ,Other  Rabi pulses,93,74
+Karnataka,BANGALORE RURAL,2013,Rabi       ,Potato,362,5810
+Karnataka,BANGALORE RURAL,2013,Rabi       ,Ragi,177,258
+Karnataka,BANGALORE RURAL,2013,Summer     ,Dry chillies,2,5
+Karnataka,BANGALORE RURAL,2013,Summer     ,Groundnut,41,37
+Karnataka,BANGALORE RURAL,2013,Summer     ,Maize,78,253
+Karnataka,BANGALORE RURAL,2013,Summer     ,Onion,182,1429
+Karnataka,BANGALORE RURAL,2013,Summer     ,Potato,23,323
+Karnataka,BANGALORE RURAL,2013,Summer     ,Ragi,36,71
+Karnataka,BANGALORE RURAL,2013,Summer     ,Rice,137,463
+Karnataka,BANGALORE RURAL,2013,Summer     ,Sunflower,2,2
+Karnataka,BANGALORE RURAL,2013,Whole Year ,Arecanut,1695,18880
+Karnataka,BANGALORE RURAL,2013,Whole Year ,Black pepper,1,2
+Karnataka,BANGALORE RURAL,2013,Whole Year ,Cashewnut,23,21
+Karnataka,BANGALORE RURAL,2013,Whole Year ,Coconut ,2782,22072
+Karnataka,BANGALORE RURAL,2013,Whole Year ,Coriander,40,12
+Karnataka,BANGALORE RURAL,2013,Whole Year ,Dry ginger,9,249
+Karnataka,BANGALORE RURAL,2013,Whole Year ,Garlic,1,1
+Karnataka,BANGALORE RURAL,2013,Whole Year ,Sugarcane,1,89
+Karnataka,BANGALORE RURAL,2013,Whole Year ,Sweet potato,18,264
+Karnataka,BANGALORE RURAL,2013,Whole Year ,Tapioca,4,35
+Karnataka,BANGALORE RURAL,2013,Whole Year ,Tobacco,48,39
+Karnataka,BANGALORE RURAL,2013,Whole Year ,Turmeric,1,5
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Arhar/Tur,1554,1736
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Castor seed,233,142
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Cowpea(Lobia),591,881
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Dry chillies,366,414
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Groundnut,275,155
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Horse-gram,1223,754
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Maize,14334,44066
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Moong(Green Gram),7,1
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Niger seed,208,55
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Onion,69,354
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Other Kharif pulses,1825,2677
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Potato,439,2702
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Ragi,35844,23147
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Rapeseed &Mustard,311,52
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Rice,598,2093
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Sesamum,8,4
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Small millets,17,11
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Sunflower,18,10
+Karnataka,BANGALORE RURAL,2014,Kharif     ,Urad,3,1
+Karnataka,BANGALORE RURAL,2014,Rabi       ,Cowpea(Lobia),29,11
+Karnataka,BANGALORE RURAL,2014,Rabi       ,Dry chillies,24,45
+Karnataka,BANGALORE RURAL,2014,Rabi       ,Gram,270,194
+Karnataka,BANGALORE RURAL,2014,Rabi       ,Horse-gram,452,222
+Karnataka,BANGALORE RURAL,2014,Rabi       ,Maize,127,429
+Karnataka,BANGALORE RURAL,2014,Rabi       ,Onion,11,73
+Karnataka,BANGALORE RURAL,2014,Rabi       ,Other  Rabi pulses,33,25
+Karnataka,BANGALORE RURAL,2014,Rabi       ,Potato,356,6630
+Karnataka,BANGALORE RURAL,2014,Rabi       ,Ragi,76,123
+Karnataka,BANGALORE RURAL,2014,Rabi       ,Sunflower,1,1
+Karnataka,BANGALORE RURAL,2014,Summer     ,Cowpea(Lobia),1,5867
+Karnataka,BANGALORE RURAL,2014,Summer     ,Dry chillies,9,17
+Karnataka,BANGALORE RURAL,2014,Summer     ,Groundnut,23,20
+Karnataka,BANGALORE RURAL,2014,Summer     ,Maize,99,323
+Karnataka,BANGALORE RURAL,2014,Summer     ,Onion,6,29
+Karnataka,BANGALORE RURAL,2014,Summer     ,Potato,65,891
+Karnataka,BANGALORE RURAL,2014,Summer     ,Ragi,42,75
+Karnataka,BANGALORE RURAL,2014,Summer     ,Rice,49,150
+Karnataka,BANGALORE RURAL,2014,Summer     ,Sunflower,1,1
+Karnataka,BANGALORE RURAL,2014,Whole Year ,Arecanut,1519,14055
+Karnataka,BANGALORE RURAL,2014,Whole Year ,Black pepper,1,6
+Karnataka,BANGALORE RURAL,2014,Whole Year ,Cashewnut,24,18
+Karnataka,BANGALORE RURAL,2014,Whole Year ,Coconut ,2255,20123
+Karnataka,BANGALORE RURAL,2014,Whole Year ,Coriander,37,13
+Karnataka,BANGALORE RURAL,2014,Whole Year ,Dry ginger,11,320
+Karnataka,BANGALORE RURAL,2014,Whole Year ,Garlic,3,3
+Karnataka,BANGALORE RURAL,2014,Whole Year ,Sweet potato,19,322
+Karnataka,BANGALORE RURAL,2014,Whole Year ,Tapioca,6,54
+Karnataka,BANGALORE RURAL,2014,Whole Year ,Turmeric,1,6
